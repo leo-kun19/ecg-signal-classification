@@ -1,0 +1,14 @@
+
+# safe publish - code only
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.pt
+*.pth
+*.h5
+*.pkl
+*.npy
+*.npz
+data/
+models/
